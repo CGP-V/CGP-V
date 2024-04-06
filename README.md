@@ -6,8 +6,8 @@ I'm CGP, a freelancer worker based in any Location. Here's a little about me:
 - 🌱 I'm currently learning [What You're Learning]
 - 💞️ I'm looking to collaborate on [Projects/Initiatives You're Interested In]
 - 📫 You can reach me via [Your Contact Information/Preferred Communication Channels]
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [Interesting Fact About You]
+
+- ⚡ Fun fact: Soy milk 🥛 is a kind of coffee ☕
 
 
 <!---
