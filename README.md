@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Greeting! 👋
 
 I'm CGP, a freelancer worker based in any Location. Here's a little about me:
 
