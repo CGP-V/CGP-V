@@ -5,8 +5,6 @@ I'm CGP. Programmer, architect, trainer, blogger, and evangelist are just a few 
 - 👀 I'm interested and majoring in Information Security 
 - 🌱 I'm currently learning AI Communications
 - ⚡ Fun fact: Soy milk 🥛 is a kind of coffee ☕!
-[WhatsApp Image 2024-05-03 at 16 59 01](https://github.com/CGP-V/CGP-V/assets/166227003/41ad98fe-6696-4d0b-8c3b-71d59ebef334)
-
 
 - 📫 You can reach me via charles.g.p.cheung@gmail.com
 
