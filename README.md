@@ -4,9 +4,10 @@ I'm CGP. Programmer, architect, trainer, blogger, and evangelist are just a few 
 
 - 👀 I'm interested and majoring in Information Security 
 - 🌱 I'm currently learning AI Communications
-- 💞️ I'm looking to collaborate on [Projects/Initiatives You're Interested In]
-- 📫 You can reach me via charles.g.p.cheung@gmail.com
 - ⚡ Fun fact: Soy milk 🥛 is a kind of coffee ☕
+
+- 📫 You can reach me via charles.g.p.cheung@gmail.com
+
 
 <!---
 CGP-V/CGP-V is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
